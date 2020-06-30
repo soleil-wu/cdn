@@ -2,8 +2,8 @@
 *{box-sizing: border-box;}
 img{max-width: 100%; vertical-align: middle;}
 
-.al-ul{margin: 0 -1.5%;}
-.al-li{float: left; width: 40%; margin: 10px 5%; list-style: none;}
+ul{margin: 0 -1.5%;}
+li{float: left; width: 40%; margin: 10px 5%; list-style: none;}
 
 p{font-weight: 300; line-height: 20px; font-size: 14px; margin-bottom: 15px;}
 .btn{display: inline-block; padding: 5px 10px; font-size: 14px; color: #fff; border: 2px solid #4d92d9; background-color: #4d92d9; text-decoration: none; transition: 0.4s;}
